@@ -31,6 +31,8 @@ local-zone: "s0.2mdn.net" redirect
 local-data: "s0.2mdn.net A 127.0.0.1"
 local-zone: "rtd.tubemogul.com" redirect
 local-data: "rtd.tubemogul.com A 127.0.0.1"
+local-data: "rr2---sn-8pgbpohxqp5-ajts.googlevideo.com A 127.0.0.1"
+local-data: "rr2.sn-8pgbpohxqp5-ajts.googlevideo.com A 127.0.0.1"
 local-zone: "r9---sn-vgqsenez.googlevideo.com" redirect
 local-data: "r9---sn-vgqsenez.googlevideo.com A 127.0.0.1"
 local-zone: "r9.sn-vgqsenez.googlevideo.com" redirect
