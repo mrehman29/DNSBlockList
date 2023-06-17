@@ -18,6 +18,8 @@
 ||secure-ds.serving-sys.com^
 ||s0.2mdn.net^
 ||rtd.tubemogul.com^
+||rr2---sn-8pgbpohxqp5-ajts.googlevideo.com^
+||rr2.sn-8pgbpohxqp5-ajts.googlevideo.com^
 ||r9---sn-vgqsenez.googlevideo.com^
 ||r9.sn-vgqsenez.googlevideo.com^
 ||r9---sn-vgqsenes.googlevideo.com^
